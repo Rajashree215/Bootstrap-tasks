@@ -1,0 +1,89 @@
+.container-fluid
+{
+    background-color: rgba(254, 4, 71, 0.963);
+    height: 90px;
+    width: auto;
+}
+.col
+{
+    position: relative;
+    top: 10px;
+}
+.container
+{
+    background-color: rebeccapurple;
+    height: 70px;
+    width: auto;
+}
+.a,.a1,.a2,.a3,.a4
+{
+    background-color: blue;
+    height: 50px;
+    width: auto;
+}
+.b,.b1,.b2,.b3,.b4
+{
+    background-color: fuchsia;
+    height: 50px;
+    width: auto;
+}
+.c1,.c2,.c3,.c4
+{
+    background-color: yellow;
+    height: 50px;
+    width: auto;
+}
+.d2,.d3,.d4
+{
+    background-color: aqua;
+    height: 50px;
+    width: auto;
+}
+.e3,.e4
+{
+    background-color: gold;
+    height: 50px;
+    width: auto;
+}
+.f3,.f4
+{
+    background-color: chocolate;
+    height: 50px;
+    width: auto;
+}
+.g4
+{
+    background-color: black;
+    height: 50px;
+    width: auto;
+}
+.h4
+{
+    background-color: darkgray;
+    height: 50px;
+    width: auto;
+}
+.i4
+{
+    background-color: hotpink;
+    height: 50px;
+    width: auto;
+}
+.j4
+{
+    background-color: tomato;
+    height: 50px;
+    width: auto;
+}
+.k4
+{
+    background-color: olive;
+    height: 50px;
+    width: auto;
+}
+.l4
+{
+    background-color: indigo;
+    height: 50px;
+    width: auto;
+}
